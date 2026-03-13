@@ -1,0 +1,51 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+bin/
+lib/
+include/
+Scripts/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Deployment/Build
+dist/
+build/
+*.spec
+
+# Environmental Variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Data (Optional - common to ignore large data files)
+# *.csv
+# *.pkl
+# *.h5
+# *.pth
+# *.onnx
